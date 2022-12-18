@@ -1,0 +1,31 @@
+* {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+}
+
+.container {
+  display: flex;
+  margin:80px auto;
+  padding: 60px;
+  border: 3px solid blue;
+  width: 900px;
+}
+.img{
+    padding-right:  5px;
+}
+img {
+  width: 350px;
+  
+}
+.text{
+    /* border: 2px solid red; */
+   padding: 25px 18px;
+   font-size:larger;
+   font-style: italic;
+}
+
+.text p{
+    margin-top:16px;
+    font-size: 15px;
+}
